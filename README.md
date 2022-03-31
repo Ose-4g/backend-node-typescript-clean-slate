@@ -1,2 +1,2 @@
-# backend-node-typescript-clean-slate
-starter files for my backend projects
+# backend
+Backend for the charitiy appplication
